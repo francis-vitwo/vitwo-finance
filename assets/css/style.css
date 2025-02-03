@@ -4850,6 +4850,10 @@ template {
   position: relative;
 }
 
+.slider-sub.banners {
+  height: 450px;
+}
+
 .slider-sub .bg-img {
   width: 100%;
   height: 100%;
@@ -4859,6 +4863,7 @@ template {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: 86%;
 }
 
 .slider-sub .container {
@@ -4891,7 +4896,7 @@ template {
 
 @media (max-width: 767.99px) {
   .slider-sub {
-    height: 300px;
+    height: 450px;
   }
 
   .slider-sub .container .text-nav {
@@ -4923,6 +4928,11 @@ template {
   border-radius: 25px;
   border: 1px solid #33333336;
   min-height: 0;
+}
+
+.service-block .service-item .service-item-main .heading .number.heading3 img {
+  width: 100%;
+  height: 55px;
 }
 
 .service-block .service-item .service-item-main .heading i.ph-arrow-up-right {
@@ -9673,7 +9683,92 @@ input::-webkit-inner-spin-button {
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
+.slider-sub.banners .content-para .body2 {
+  width: 75%;
+  background: #9e9e9e91;
+  padding: 25px;
+  backdrop-filter: blur(5px);
+  border-radius: 24px;
+  border: 2px solid #ffffff63;
+}
+
 @media only screen and (max-width: 1023px) {
+
+  #kiwi-big-iframe-wrapper {
+    top: 515px;
+  }
+
+  .scroll-to-top-btn.active {
+    bottom: 80px;
+    opacity: 1;
+    visibility: visible;
+    z-index: 99999;
+  }
+
+  .slider-sub .container .service-form {
+    position: relative;
+
+  }
+
+  .pt-80 {
+    padding-top: 0;
+  }
+
+  .bg-img {
+    margin: 10px 0;
+  }
+
+  .slider-sub.banners {
+    height: 550px;
+  }
+
+  .slider-sub.banners .bg-img {
+    margin: 0;
+  }
+
+  .slider-sub.banners .bg-img img {
+    filter: brightness(0.6999);
+  }
+
+  .slider-sub.banners .content-para .heading4 {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.2;
+    width: 250px;
+  }
+
+
+  .slider-sub.banners .content-para .body2 {
+    font-size: 11px !important;
+    font-weight: 400;
+    line-height: 1.2;
+    width: 250px;
+    color: var(--text-color3) !important;
+    padding: 0;
+    background: none;
+    border: none;
+    backdrop-filter: none;
+  }
+
+  .slider-sub.banners .service-form .heading .heading5 {
+    font-size: 15px;
+  }
+
+  .slider-sub .container .service-form {
+    left: 0 !important;
+  }
+
+  .slider-sub.banners .service-form form input,
+  .slider-sub.banners .service-form form span {
+    height: 0;
+    margin: 5px 0 0;
+    border-radius: 6px;
+  }
+
+  .slider-sub.banners .service-form form .button-share {
+    width: 100%;
+  }
+
   #thank-you.page .thank-you-card {
     left: -30px;
     width: 350px;
@@ -10248,10 +10343,10 @@ input::-webkit-inner-spin-button {
   }
 
   body .slider .slide img {
-    width: 50px;
+    width: 100px;
     height: 50px;
     object-fit: contain;
-    aspect-ratio: 3 / 2;
+    aspect-ratio: 0.5;
   }
 
   .form-cta-block .container>.row>div:last-child .form-block button {
@@ -11031,6 +11126,20 @@ input::-webkit-inner-spin-button {
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
+
+  /* .slider-sub {
+    height: 300px;
+  }
+
+  .slider-sub .container .text-nav {
+    margin-top: 123px;
+    width: 65%;
+    background: #ffffff4a;
+    backdrop-filter: blur(3px);
+    border-radius: 25px;
+    padding: 25px 14px;
+  } */
+
   .mt-88 {
     margin-top: 3.2rem;
   }
@@ -11284,11 +11393,13 @@ input::-webkit-inner-spin-button {
 }
 
 .slider-sub .container .service-form {
+  position: relative;
   background: #ffffff3d;
   padding: 20px;
   border: 1px solid #ffffff3d;
   border-radius: 25px;
   backdrop-filter: blur(5px);
+  left: 50px;
 }
 
 .style-two .container .service-slider {
@@ -12138,4 +12249,18 @@ input::-webkit-inner-spin-button {
 #second-year.carousel .carousel-control-next i {
   left: 0;
   color: var(--bgcolor-darkest);
+}
+
+.slider-sub.banners .service-form .heading .heading5 {
+  margin-bottom: 5px;
+}
+
+.modal .modal-body a {
+  display: flex;
+  justify-content: center;
+}
+
+.modal .modal-body a .button-share {
+  width: 50%;
+  text-align: center;
 }

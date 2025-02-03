@@ -11,89 +11,6 @@
 
     <!--- =========================HEADER============================== --->
 
-    <!-- <div id="header">
-        <div class="style-subpage style-home-two">
-            <div class="header-menu style-one bg-white">
-                <div class="container flex-between h-80"><a class="menu-left-block" href="./index.html"><img
-                            class="menu-logo w-88 h-60" src="./assets/images/logo/dark-logo.png" alt="logo" /><img
-                            class="menu-logo display-none" src="./assets/images/" alt="logo" /></a>
-                    <div class="menu-center-block h-100">
-                        <ul class="menu-nav flex-item-center h-100 sub-nav">
-                            <li class="nav-item h-100 flex-center home sub-nav-item active"><a class="nav-link"
-                                    href="./index.html">Home</a>
-                            </li>
-                            <li class="nav-item h-100 flex-center about"><a class="nav-link" href="./about.html">About
-                                    Us</a>
-                            </li>
-                            <li class="nav-item h-100 flex-center services"><a class="nav-link"
-                                    href="./virtual-cfo-services.html">Virtual CFO Services </a>
-                            </li>
-
-                            <li class="nav-item h-100 flex-center contact"><a class="nav-link"
-                                    href="./career.html">Career </a>
-                            </li>
-                            <li class="nav-item h-100 flex-center contact"><a class="btn btn-primary text-black-40"
-                                    href="./contact.html" role="button">Get in Touch!</a>
-                        </ul>
-                    </div>
-                    <div class="menu-right-block flex-item-center gap-12">
-                        <div class="text-button-small display-none">Follow Us</div>
-                        <div class="list-social flex-item-center gap-10 style-two">
-                            <a class="bora-50 w-28 h-28 flex-center facebook"
-                                href="https://www.facebook.com/profile.php?id=100087556892122" target="_blank">
-                                <i class="icon-facebook fs-14 fa-brands fa-facebook-f"></i>
-                            </a>
-                            <a class="bora-50 w-28 h-28 flex-center linkedin"
-                                href="https://www.linkedin.com/company/vitwo" target="_blank"><i
-                                    class="icon-in fs-14  ml-2  fa-brands fa-linkedin-in">
-                                </i>
-                            </a>
-                            <a class="bora-50 w-28 h-28 flex-center  instagram"
-                                href="https://www.instagram.com/vitwofinance/?igshid=YmMyMTA2M2Y%3D" target="_blank">
-                                <i class="icon-insta fs-14  fa-brands fa-instagram fa-1x"></i>
-                            </a>
-                            <a class="bora-50 w-28 h-28 flex-center youtube "
-                                href="https://www.youtube.com/channel/UCtdZ2F5LXTclksLjRtAZKEg/featured"
-                                target="_blank">
-                                <i class="icon-youtube fs-14  fa-brands fa-youtube"></i>
-                            </a>
-                        </div>
-                        <div class="menu-humburger display-none pointer"><i class="ph-bold ph-list"></i></div>
-                    </div>
-                </div>
-
-                <div id="menu-mobile-block">
-                    <div class="menu-mobile-main">
-                        <div class="container">
-                            <ul class="menu-nav-mobile h-100 pt-4 pb-4 sub-nav-mobile">
-                                <li
-                                    class="nav-item-mobile h-100 flex-column gap-8 pt-8 pb-8 pl-12 pr-12 pointer home sub-nav-item active">
-                                    <a class="fs-14 nav-link-mobile" href="./index.html">Home </a>
-                                </li>
-                                <li class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer about">
-                                    <a class="fs-14 nav-link-mobile" href="./about.html">About Us</a>
-                                </li>
-                                <li
-                                    class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer services">
-                                    <a class="fs-14 nav-link-mobile" href="./virtual-cfo-services.html">Virtual CFO
-                                        Services </a>
-                                </li>
-
-                                <li
-                                    class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer contact">
-                                    <a class="fs-14 nav-link-mobile" href="./career.html">Career </a>
-                                </li>
-                                <li
-                                    class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer contact">
-                                    <a class="fs-14 nav-link-mobile" href="./contact.html">Contact Us </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
 
     <?php include "include/navbar.php" ?>
 
@@ -120,7 +37,7 @@
 
         <!--- =======================CLIENTS SECTION================================ --->
 
-        <div class="style-two bg-white pt-60 pt-60">
+        <div class="style-two bg-white pt-24">
             <div class="container">
                 <div class="partner-five-col style-one mt-100 bg-white">
                     <div class="customer-logos slider">
@@ -217,9 +134,9 @@
 
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
-                            <a class="service-item-main flex-column gap-16">
+                            <a class="service-item-main flex-column gap-16" href="./accounting-bookkeeping.php">
                                 <div class="heading flex-between"><i class="icon-coin-chair text-blue fs-60"></i>
-                                    <div class="number heading3 text-placehover"><i class="fas fa-book"></i></div>
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/Accounting & Bookkeeping.svg" alt=""></div>
                                 </div>
                                 <div class="desc">
                                     <div class="heading7 hover-text-blue headings">Accounting & Bookkeeping</div>
@@ -228,17 +145,17 @@
                                         standardised, compliant processes.
                                     </div>
                                 </div>
-                                <!-- <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
-                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div> -->
+                                <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
+                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div>
                             </a>
                         </div>
                     </div>
 
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
-                            <a class="service-item-main flex-column gap-16">
+                            <a class="service-item-main flex-column gap-16" href="./compliance-management-services.php">
                                 <div class="heading flex-between"><i class="icon-hand-tick text-blue fs-60"></i>
-                                    <div class="number heading3 text-placehover"><i class="fas fa-clipboard-list"></i>
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/Compliance Management Services.svg" alt="">
                                     </div>
                                 </div>
                                 <div class="desc">
@@ -248,17 +165,17 @@
                                         for your organisation.
                                     </div>
                                 </div>
-                                <!-- <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
-                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div> -->
+                                <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
+                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div>
                             </a>
                         </div>
                     </div>
 
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
-                            <a class="service-item-main flex-column gap-16">
+                            <a class="service-item-main flex-column gap-16" href="./mis-reporting.php">
                                 <div class="heading flex-between"><i class="icon-hand-house text-blue fs-60"></i>
-                                    <div class="number heading3 text-placehover"><i class="fas fa-file-invoice"></i>
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/MIS Reporting.svg" alt="">
                                     </div>
                                 </div>
                                 <div class="desc">
@@ -268,17 +185,17 @@
                                         KPIs and drive decisions effectively.
                                     </div>
                                 </div>
-                                <!-- <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
-                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div> -->
+                                <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
+                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div>
                             </a>
                         </div>
                     </div>
 
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
-                            <a class="service-item-main flex-column gap-16">
+                            <a class="service-item-main flex-column gap-16" href="./business-intelligence-analytics.php">
                                 <div class="heading flex-between"><i class="icon-gear-warning text-blue fs-60"></i>
-                                    <div class="number heading3 text-placehover"><i class="fas fa-gears"></i></div>
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/Business Itelligence.svg" alt=""></div>
                                 </div>
                                 <div class="desc">
                                     <div class="heading7 hover-text-blue headings">Business Intelligence/Analytics</div>
@@ -287,18 +204,17 @@
                                         shape your business's future.
                                     </div>
                                 </div>
-                                <!-- <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
-                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div> -->
+                                <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
+                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div>
                             </a>
                         </div>
                     </div>
 
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
-                        <div class="service-item bora-8 p-32 bg-white border-line-1px"><a
-                                class="service-item-main flex-column gap-16">
+                        <div class="service-item bora-8 p-32 bg-white border-line-1px">
+                            <a class="service-item-main flex-column gap-16" href="./processes-risk-mitigation.php">
                                 <div class="heading flex-between"><i class="icon-text-search text-blue fs-60"></i>
-                                    <div class="number heading3 text-placehover"><i
-                                            class="fas fa-exclamation-triangle"></i></div>
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/Processes & Risk Mitigation.svg" alt=""></div>
                                 </div>
                                 <div class="desc">
                                     <div class="heading7 hover-text-blue headings">Processes & Risk Mitigation</div>
@@ -307,17 +223,17 @@
                                         position for sustained growth.
                                     </div>
                                 </div>
-                                <!-- <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
-                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div> -->
+                                <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
+                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div>
                             </a>
                         </div>
                     </div>
 
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px"><a
-                                class="service-item-main flex-column gap-16">
+                                class="service-item-main flex-column gap-16" href="./fund-management.php">
                                 <div class="heading flex-between"><i class="icon-education text-blue fs-52"></i>
-                                    <div class="number heading3 text-placehover"><i class="fas fa-chart-gantt"></i>
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/Fund Management.svg" alt="">
                                     </div>
                                 </div>
                                 <div class="desc">
@@ -327,17 +243,17 @@
                                         for organisational growth.
                                     </div>
                                 </div>
-                                <!-- <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
-                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div> -->
+                                <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
+                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div>
                             </a>
                         </div>
                     </div>
 
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px"><a
-                                class="service-item-main flex-column gap-16">
+                                class="service-item-main flex-column gap-16" href="./associate-services.php">
                                 <div class="heading flex-between"><i class="icon-education text-blue fs-52"></i>
-                                    <div class="number heading3 text-placehover"><i class="fas fa-headset"></i>
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/Associate Services.svg" alt="">
                                     </div>
                                 </div>
                                 <div class="desc">
@@ -347,8 +263,8 @@
                                         smooth experience.
                                     </div>
                                 </div>
-                                <!-- <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
-                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div> -->
+                                <div class="read-block flex-item-center gap-4 hover-text-blue"><span class="fs-14 fw-700 text-blue">Read
+                                        More</span><i class="ph-bold ph-caret-double-right fs-12 text-blue"></i></div>
                             </a>
                         </div>
                     </div>
@@ -372,6 +288,7 @@
     <script src="./assets/js/waypoints.min.js"></script>
     <script src="./assets/js/countUp.min.js"></script>
     <script src="./assets/js/bootstrap-drawer.min.js"></script>
+    <script src="./assets/js/main.js"></script>
     <script src="./assets/js/main.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js">
     </script>

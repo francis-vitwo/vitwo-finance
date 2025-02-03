@@ -1195,6 +1195,7 @@
   <script src="./assets/js/waypoints.min.js"></script>
   <script src="./assets/js/countUp.min.js"></script>
   <script src="./assets/js/bootstrap-drawer.min.js"></script>
+  <script src="./assets/js/main.js"></script>
   <script src="./assets/js/main.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js"></script>
   <script src="./assets/js/custom.js"></script>

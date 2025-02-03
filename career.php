@@ -11,90 +11,6 @@
 
     <!--- =========================HEADER============================== --->
 
-    <!-- <div id="header">
-
-        <div class="style-subpage style-home-two">
-            <div class="header-menu style-one bg-white">
-                <div class="container flex-between h-80"><a class="menu-left-block" href="./index.html"><img
-                            class="menu-logo w-88 h-60" src="./assets/images/logo/dark-logo.png" alt="logo" /><img
-                            class="menu-logo display-none" src="./assets/images/" alt="logo" /></a>
-                    <div class="menu-center-block h-100">
-                        <ul class="menu-nav flex-item-center h-100 sub-nav">
-                            <li class="nav-item h-100 flex-center home sub-nav-item active"><a class="nav-link"
-                                    href="./index.html">Home</a>
-                            </li>
-                            <li class="nav-item h-100 flex-center about"><a class="nav-link" href="./about.html">About
-                                    Us</a>
-                            </li>
-                            <li class="nav-item h-100 flex-center services"><a class="nav-link"
-                                    href="./virtual-cfo-services.html">Virtual CFO Services </a>
-                            </li>
-
-                            <li class="nav-item h-100 flex-center contact"><a class="nav-link"
-                                    href="./career.html">Career </a>
-                            </li>
-                            <li class="nav-item h-100 flex-center contact"><a class="btn btn-primary text-black-40"
-                                    href="./contact.html" role="button">Get in Touch!</a>
-                        </ul>
-                    </div>
-                    <div class="menu-right-block flex-item-center gap-12">
-                        <div class="text-button-small display-none">Follow Us</div>
-                        <div class="list-social flex-item-center gap-10 style-two">
-                            <a class="bora-50 w-28 h-28 flex-center facebook"
-                                href="https://www.facebook.com/profile.php?id=100087556892122" target="_blank">
-                                <i class="icon-facebook fs-14 fa-brands fa-facebook-f"></i>
-                            </a>
-                            <a class="bora-50 w-28 h-28 flex-center linkedin"
-                                href="https://www.linkedin.com/company/vitwo" target="_blank"><i
-                                    class="icon-in fs-14  ml-2  fa-brands fa-linkedin-in">
-                                </i>
-                            </a>
-                            <a class="bora-50 w-28 h-28 flex-center  instagram"
-                                href="https://www.instagram.com/vitwofinance/?igshid=YmMyMTA2M2Y%3D" target="_blank">
-                                <i class="icon-insta fs-14  fa-brands fa-instagram fa-1x"></i>
-                            </a>
-                            <a class="bora-50 w-28 h-28 flex-center youtube "
-                                href="https://www.youtube.com/channel/UCtdZ2F5LXTclksLjRtAZKEg/featured"
-                                target="_blank">
-                                <i class="icon-youtube fs-14  fa-brands fa-youtube"></i>
-                            </a>
-                        </div>
-                        <div class="menu-humburger display-none pointer"><i class="ph-bold ph-list"></i></div>
-                    </div>
-                </div>
-
-                <div id="menu-mobile-block">
-                    <div class="menu-mobile-main">
-                        <div class="container">
-                            <ul class="menu-nav-mobile h-100 pt-4 pb-4 sub-nav-mobile">
-                                <li
-                                    class="nav-item-mobile h-100 flex-column gap-8 pt-8 pb-8 pl-12 pr-12 pointer home sub-nav-item active">
-                                    <a class="fs-14 nav-link-mobile" href="./index.html">Home </a>
-                                </li>
-                                <li class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer about">
-                                    <a class="fs-14 nav-link-mobile" href="./about.html">About Us</a>
-                                </li>
-                                <li
-                                    class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer services">
-                                    <a class="fs-14 nav-link-mobile" href="./virtual-cfo-services.html">Virtual CFO
-                                        Services </a>
-                                </li>
-
-                                <li
-                                    class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer contact">
-                                    <a class="fs-14 nav-link-mobile" href="./career.html">Career </a>
-                                </li>
-                                <li
-                                    class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer contact">
-                                    <a class="fs-14 nav-link-mobile" href="./contact.html">Contact Us </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
 
 
 
@@ -159,7 +75,7 @@
 
 
 
-        <div class="service-block mt-60">
+        <div class="service-block mt-60 p-24">
             <div class="container">
                 <div class="list-service row mt-32 row-gap-32">
 
@@ -518,64 +434,39 @@
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Fill Your Details
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Send Your Details to the below given Email Id
+
                         </h1>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
-                        <div class="row mb-5">
-                            <div class="col">
-                                <input type="text" class="form-control" placeholder="Full Name"
-                                    aria-label="Full Name">
-                            </div>
-                        </div>
-
-                        <div class="row mb-5">
-                            <div class="col">
-                                <input type="email" class="form-control" placeholder="Email" aria-label="Email">
-                            </div>
-                        </div>
-
-                        <div class="row mb-5">
-                            <div class="col">
-                                <input type="number" class="form-control" placeholder="Number" aria-label="Number">
-                            </div>
-                        </div>
-
-                        <div class="row m-2">
-                            <label for="formFile" class="form-label">Submit your cover letter or
-                                resume*</label>
-                            <input class="form-control" type="file" id="formFile">
-                        </div>
-
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Apply</button>
+                        <a href="mailto:hr@vitwo.in" target="_blank">
+                            <div class="button-share bora-12 text-white">hr@vitwo.in <i class="fa-solid fa-arrow-down-long white ml-28"></i></div>
+                        </a>
                     </div>
                 </div>
             </div>
+
+
+            <div class="pb-100"></div>
         </div>
 
+        <a class="scroll-to-top-btn" href="#header"><i class="ph-bold ph-caret-up"></i></a>
 
-        <div class="pb-100"></div>
-    </div>
+        <!--- =======================FOOTER================================ --->
 
-    <a class="scroll-to-top-btn" href="#header"><i class="ph-bold ph-caret-up"></i></a>
+        <?php include "include/footer.php" ?>
 
-    <!--- =======================FOOTER================================ --->
-
-    <?php include "include/footer.php" ?>
-
-    <!--build:js ./assets/js/main.min.js-->
-    <script src="./assets/js/jquery-3.5.1.min.js"></script>
-    <script src="./assets/js/slick.min.js"></script>
-    <script src="./assets/js/waypoints.min.js"></script>
-    <script src="./assets/js/countUp.min.js"></script>
-    <script src="./assets/js/bootstrap-drawer.min.js"></script>
-    <script src="./assets/js/main.min.js"></script>
-    <script src="./assets/js/custom.js"></script>
-    <!--endbuild-->
+        <!--build:js ./assets/js/main.min.js-->
+        <script src="./assets/js/jquery-3.5.1.min.js"></script>
+        <script src="./assets/js/slick.min.js"></script>
+        <script src="./assets/js/waypoints.min.js"></script>
+        <script src="./assets/js/countUp.min.js"></script>
+        <script src="./assets/js/bootstrap-drawer.min.js"></script>
+        <script src="./assets/js/main.js"></script>
+        <script src="./assets/js/main.min.js"></script>
+        <script src="./assets/js/custom.js"></script>
+        <!--endbuild-->
 </body>
 
 </html>

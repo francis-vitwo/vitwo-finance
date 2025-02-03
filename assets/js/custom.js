@@ -1,4 +1,21 @@
 
+// (function (w, d, s, c, r, a, m) {
+//     w['KiwiObject'] = r;
+//     w[r] = w[r] || function () {
+//         (w[r].q = w[r].q || []).push(arguments);
+//     };
+//     w[r].l = 1 * new Date();
+//     a = d.createElement(s);
+//     m = d.getElementsByTagName(s)[0];
+//     a.async = 1; // Allow the script to load asynchronously
+//     a.src = c + "?v=1.0.0"; // Static version for caching
+//     m.parentNode.insertBefore(a, m);
+// })(window, document, 'script', "https://app.interakt.ai/kiwi-sdk/kiwi-sdk-17-prod-min.js", 'kiwi');
+
+// window.addEventListener("load", function () {
+//     kiwi.init('', 'UGuGJU1VZu9nC9YgIxeSQp6XsTyGvD4V', {});
+// });
+
 (function (w, d, s, c, r, a, m) {
     w['KiwiObject'] = r;
     w[r] = w[r] || function () {
@@ -9,12 +26,14 @@
     m = d.getElementsByTagName(s)[0];
     a.async = 1; // Allow the script to load asynchronously
     a.src = c + "?v=1.0.0"; // Static version for caching
+    a.style.marginTop = "50px"; // Added margin-top
     m.parentNode.insertBefore(a, m);
 })(window, document, 'script', "https://app.interakt.ai/kiwi-sdk/kiwi-sdk-17-prod-min.js", 'kiwi');
 
 window.addEventListener("load", function () {
     kiwi.init('', 'UGuGJU1VZu9nC9YgIxeSQp6XsTyGvD4V', {});
 });
+
 
 
 /*OWL-Carousel*/

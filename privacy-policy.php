@@ -2,40 +2,9 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title> ViTWO - Best Virtual CFO in India | Outsourced CFO - Shared CFO</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-        rel="stylesheet">
-    <script src="./assets/js/phosphor-icon.js"></script>
-    <link rel="shortcut icon" type="image/png" href="./assets/images/logo/ViTWO_Favicon.webp">
-
-    <!--build:css ./assets/css/styles.min.css-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-        crossorigin="anonymous"></script>
-    <script src="./assets/js/jquery-3.5.1.min.js"></script>
-    <script src="./assets/js/scrollreveal-4.0.0.min.js"></script>
-    <link rel="stylesheet" href="./assets/css/bootstrap.css" />
-    <link rel="stylesheet" href="./assets/css/slick.min.css" />
-    <link rel="stylesheet" href="./assets/css/bootstrap-drawer.min.css" />
-    <link rel="stylesheet" href="./assets/icons/style.css" />
-    <link rel="stylesheet" href="./assets/css/style.css" />
-    <link rel="stylesheet" href="./assets/css/customstyle.css" />
-    <link rel="stylesheet" href="./assets/css/animate-4.1.1.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
-        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
-        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <!--endbuild-->
+    <title> ViTWO | Contact Us</title>
+    <?php include "include/headtag.php" ?>
+    <link rel="canonical" href="https://vitwo.finance/privacy-policy" />
 </head>
 
 <body>
@@ -268,6 +237,7 @@
     <script src="./assets/js/waypoints.min.js"></script>
     <script src="./assets/js/countUp.min.js"></script>
     <script src="./assets/js/bootstrap-drawer.min.js"></script>
+    <script src="./assets/js/main.js"></script>
     <script src="./assets/js/main.min.js"></script>
     <script src="./assets/js/custom.js"></script>
     <script src="./assets/js/custom.js"></script>
