@@ -15,7 +15,8 @@
         <!-- ================BANNER============================ -->
 
         <div class="slider-sub banners">
-            <div class="bg-img"> <img src="./assets/images/banner/7.webp" alt="banner" /></div>
+            <div class="bg-img"> <img src="./assets/images/banner/banner-desktop-view.webp" alt="banner" /></div>
+            <div class="bg-img img2"> <img src="./assets/images/banner/banner-mobile-view.webp" alt="banner" /></div>
             <div class="container">
                 <div class="row row-gap-32 p-20">
                     <div class="col-12 col-xl-8 col-lg-6 col-md-6 col-sm-6">
@@ -87,7 +88,7 @@
 
         <!-- ================CLIENTS============================ -->
 
-        <div class="style-two bg-white pt-24">
+        <div class="style-two bg-white pt-24 pb-24">
             <div class="container">
                 <div class="partner-five-col style-one mt-100 bg-white">
                     <div class="customer-logos slider">
@@ -121,9 +122,9 @@
 
         <!-- ================PAGE DETAILS============================ -->
 
-        <div class=" layout-item pt-80 pb-100 bg-white">
+        <div class=" layout-item pt-80 bg-white">
             <div class="container">
-                <div class="row">
+                <div class="row gap-m-16">
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pr-40 flex-column justify-content-center">
                         <div class="heading3">Statutory Audit - Ensuring Financial Transparency
                         </div>
@@ -137,7 +138,7 @@
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pl-55">
                         <div class="bg-img w-100 overflow-hidden bora-20"><img
                                 class="w-100 h-100 hover-scale display-block"
-                                src="./assets/images/services/assoc/DSC06029.jpg" alt="" /></div>
+                                src="./assets/images/services/assoc/DSC06029.jpg" alt="" loading="lazy" /></div>
                     </div>
                 </div>
             </div>
@@ -145,11 +146,11 @@
 
         <div class=" layout-item pt-100 pb-70 bg-white">
             <div class="container">
-                <div class="row direction">
+                <div class="row direction reverse gap-m-16">
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 flex-column justify-content-center">
                         <div class="bg-img w-100 overflow-hidden bora-20"><img
                                 class="w-100 h-100 hover-scale display-block"
-                                src="./assets/images/services/assoc/DSC06040.jpg" alt="" />
+                                src="./assets/images/services/assoc/DSC06040.jpg" alt="" loading="lazy" />
                         </div>
 
                     </div>
@@ -171,9 +172,9 @@
 
     <!-- ================PAGE DETAILS============================ -->
 
-    <div class=" layout-item pt-80 pb-80 bg-white">
+    <div class=" layout-item pt-80 bg-white">
         <div class="container">
-            <div class="row">
+            <div class="row gap-m-16">
                 <div class="col-12 col-lg-12 pr-40 flex-column justify-content-center">
                     <div class="heading3 text-center">Statutory Audit - Ensuring Financial Transparency</div>
                     <div class="body2 text-secondary mt-20">Our virtual CFO services include statutory audits aimed at
@@ -187,12 +188,12 @@
         </div>
     </div>
 
-    <div class=" layout-item pt-100 pb-70 bg-white">
+    <div class=" layout-item pt-100 bg-white">
         <div class="container">
-            <div class="row direction">
+            <div class="row direction reverse gap-m-16">
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 flex-column justify-content-center">
                     <div class="bg-img w-100 overflow-hidden bora-20"><img class="w-100 h-100 hover-scale display-block"
-                            src="./assets/images/services/assoc/DSC06046.jpg" alt="" />
+                            src="./assets/images/services/assoc/DSC06046.jpg" alt="" loading="lazy" />
                     </div>
 
                 </div>
@@ -214,9 +215,9 @@
         </div>
     </div>
 
-    <div class=" layout-item pt-80 pb-100 bg-white">
+    <div class=" layout-item pt-80 bg-white">
         <div class="container">
-            <div class="row">
+            <div class="row gap-m-16">
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pr-40 flex-column justify-content-center">
                     <div class="heading3">Ensure Compliance and Efficiency</div>
                     <div class="body2 text-secondary mt-20">The process of GST audit involves a meticulous examination
@@ -229,7 +230,7 @@
                 </div>
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pl-55">
                     <div class="bg-img w-100 overflow-hidden bora-20"><img class="w-100 h-100 hover-scale display-block"
-                            src="./assets/images/services/assoc/DSC06049.jpg" alt="" /></div>
+                            src="./assets/images/services/assoc/DSC06049.jpg" alt="" loading="lazy" /></div>
                 </div>
             </div>
         </div>
@@ -302,6 +303,59 @@
     <a class="scroll-to-top-btn" href="#header"><i class="fas fa-caret-up fa-2x"></i></a>
     </div>
 
+    <div class="testimonials-three pt-60 bg-white">
+        <div class="container">
+            <?php include "include/testimonial.php" ?>
+        </div>
+    </div>
+
+    <div class="style-three">
+        <div class=" layout-item pt-60 pb-60 bg-white">
+            <div class="container" id="container">
+                <div class="row row-gap-32">
+
+                    <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 col-md-6 col-sm-12 pb-32 video">
+                        <div class="bg-video w-100 overflow-hidden bora-24">
+                            <iframe width="100%" height="315"
+                                src="https://www.youtube.com/embed/zK2KoG8qxjc?si=Ojrt7vTf8HS4NRnV"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6  col-md-6 col-sm-12 video">
+                        <div class="bg-video w-100 overflow-hidden bora-24"><iframe width="100%" height="315"
+                                src="https://www.youtube.com/embed/YB9lgamNYug?si=R_JdAwxtuQdWofzX"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 col-md-6 col-sm-12 video">
+                        <div class="bg-video w-100 overflow-hidden bora-24"><iframe width="100%" height="315"
+                                src="https://www.youtube.com/embed/ePJXi2raTPs?si=IbqISAAjqI0k9yId"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6  col-md-6 col-sm-12 video">
+                        <div class="bg-video w-100 overflow-hidden bora-24"><iframe width="100%" height="315"
+                                src="https://www.youtube.com/embed/bFRE1Q4zEs4?si=ICm3-MQ4XcCgwu_-"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
     <?php include "include/footer.php" ?>
 
     <!--build:js ./assets/js/main.min.js-->
@@ -314,6 +368,7 @@
     <script src="./assets/js/main.min.js"></script>
     <script src="./assets/js/services-form.js"></script>
     <script src="./assets/js/vcfo-form.js"></script>
+    <script src="./assets/js/custom.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
     <!-- Owl Carousel JS -->

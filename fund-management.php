@@ -14,8 +14,9 @@
 
         <!-- ================BANNER============================ -->
 
-        <div class="slider-sub banners">
-            <div class="bg-img"> <img src="./assets/images/banner/6.webp" alt="banner" /></div>
+        <div class="slider-sub banners bg-white">
+            <div class="bg-img"> <img src="./assets/images/banner/banner-desktop-view.webp" alt="banner" /></div>
+            <div class="bg-img img2"> <img src="./assets/images/banner/banner-mobile-view.webp" alt="banner" /></div>
             <div class="container">
                 <div class="row row-gap-32 p-20">
                     <div class="col-12 col-xl-8 col-lg-6 col-md-6 col-sm-6">
@@ -43,7 +44,7 @@
 
                         <div class="service-form">
                             <div class="heading">
-                                <div class="heading5 dark mt-12">Fill out the few details</div>
+                                <div class="heading5 dark mt-12">Fill out few details</div>
                             </div>
 
                             <form class="form-block flex-columns-between gap-20" action="./thankyou.php" id="serviceBookDemo" method="post">
@@ -87,7 +88,7 @@
 
         <!-- ================CLIENTS============================ -->
 
-        <div class="style-two bg-white pt-24">
+        <div class="style-two bg-white pt-24 pb-24">
             <div class="container">
                 <div class="partner-five-col style-one mt-100 bg-white">
                     <div class="customer-logos slider">
@@ -122,9 +123,9 @@
 
         <!-- ================PAGE DETAILS============================ -->
 
-        <div class=" layout-item pt-80 pb-100 bg-white">
+        <div class=" layout-item pt-80 bg-white">
             <div class="container">
-                <div class="row">
+                <div class="row gap-m-16">
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pr-40 flex-column justify-content-center">
                         <div class="heading3">Fund Management - Maximising Growth Potential</div>
                         <div class="body2 text-secondary mt-20">Efficiently managing funds is essential for any
@@ -137,19 +138,19 @@
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pl-55">
                         <div class="bg-img w-100 overflow-hidden bora-20"><img
                                 class="w-100 h-100 hover-scale display-block"
-                                src="./assets/images/services/fund/DSC05961.jpg" alt="" /></div>
+                                src="./assets/images/services/fund/DSC05961.jpg" alt="" loading="lazy" /></div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class=" layout-item pt-100 pb-70 bg-white">
+        <div class=" layout-item pt-100 bg-white">
             <div class="container">
-                <div class="row direction">
+                <div class="row direction reverse gap-m-16">
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 flex-column justify-content-center">
                         <div class="bg-img w-100 overflow-hidden bora-20"><img
                                 class="w-100 h-100 hover-scale display-block"
-                                src="./assets/images/services/fund/DSC06120.jpg" alt="" />
+                                src="./assets/images/services/fund/DSC06120.jpg" alt="" loading="lazy" />
                         </div>
 
                     </div>
@@ -168,15 +169,13 @@
             </div>
         </div>
 
-        <!-- ================Features Clickable============================ -->
-
     </div>
 
     <!-- ================PAGE DETAILS============================ -->
 
-    <div class=" layout-item pt-80 pb-80 bg-white">
+    <div class=" layout-item pt-80 bg-white">
         <div class="container">
-            <div class="row">
+            <div class="row gap-m-16">
                 <div class="col-12 col-lg-12 pr-40 flex-column justify-content-center">
                     <div class="heading3 text-center">OD Banking Relationship - Optimising Credit and Interest</div>
                     <div class="body2 text-secondary mt-20">Rates Your banking relationship plays a significant role in
@@ -189,12 +188,12 @@
         </div>
     </div>
 
-    <div class=" layout-item pt-100 pb-70 bg-white">
+    <div class=" layout-item pt-100 bg-white">
         <div class="container">
-            <div class="row direction">
+            <div class="row direction reverse gap-m-16">
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 flex-column justify-content-center">
                     <div class="bg-img w-100 overflow-hidden bora-20"><img class="w-100 h-100 hover-scale display-block"
-                            src="./assets/images/services/fund/DSC06136.jpg" alt="" />
+                            src="./assets/images/services/fund/DSC06136.jpg" alt="" loading="lazy" />
                     </div>
 
                 </div>
@@ -214,7 +213,7 @@
 
     <div class=" layout-item pt-80 pb-100 bg-white">
         <div class="container">
-            <div class="row">
+            <div class="row gap-m-16">
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pr-40 flex-column justify-content-center">
                     <div class="heading3">Ensure Compliance and Efficiency</div>
                     <div class="body2 text-secondary mt-20">Staying compliant with tax obligations and
@@ -228,7 +227,7 @@
                 </div>
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pl-55">
                     <div class="bg-img w-100 overflow-hidden bora-20"><img class="w-100 h-100 hover-scale display-block"
-                            src="./assets/images/services/fund/DSC06202.jpg" alt="" /></div>
+                            src="./assets/images/services/fund/DSC06202.jpg" alt="" loading="lazy" /></div>
                 </div>
             </div>
         </div>
@@ -302,156 +301,7 @@
 
     <div class="testimonials-three pt-60 bg-white">
         <div class="container">
-            <div class="heading3 text-center">What People Are Saying</div>
-            <div class="body3 text-secondary text-center m-3">ViTWO has set a benchmark of Excellence in the world
-                of
-                Finance automation. The reviews shared by our valued clients manifest our validation</div>
-            <div class="list-comment row">
-
-                <div class="col-12 col-lg-4 col-sm-6 comment-item">
-                    <div class="item p-32 bg-white bora-12">
-                        <div class="body3 text-secondary">ViTWO team is totally capable of clearing problems within
-                            a day and they
-                            are quite good with their communication skills as well as their commitment .</div>
-                        <div class="infor mt-16 flex-item-center gap-16">
-                            <div class="avatar"><img class="w-60 h-60 bora-50"
-                                    src="./assets/images/clients/Raj Pratap.png" alt="" />
-                            </div>
-                            <div class="desc">
-                                <div class="text-button"> Raj Pratap Singh</div>
-                                <div class="caption2 text-secondary mt-4">Owner, Raj Fabrication</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 col-sm-6 comment-item">
-                    <div class="item p-32 bg-white bora-12">
-                        <div class="body3 text-secondary">I'm glad to have ViTWO as our Virtual CFO. They are good
-                            service provider.
-                        </div>
-                        <div class="infor flex-item-center gap-16 mt-88">
-                            <div class="avatar"><img class="w-60 h-60 bora-50"
-                                    src="./assets/images/clients/310405154_5724293880987074_687731990506480993_n (1).jpg"
-                                    alt="" />
-                            </div>
-                            <div class="desc">
-                                <div class="text-button">Rajeev Agarwal</div>
-                                <div class="caption2 text-secondary mt-4"> Operations Head, Aroka</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 col-sm-6 comment-item">
-                    <div class="item p-32 bg-white bora-12">
-                        <div class="body3 text-secondary">Controls, Optimisation and profound governance – to sum it
-                            up we are
-                            better financially managed. Kudos to Team ViTWO.</div>
-                        <div class="infor mt-40 flex-item-center gap-16">
-                            <div class="avatar"><img class="w-60 h-60 bora-50"
-                                    src="./assets/images/clients/Oiendrila-Ray.jpg" alt="" />
-                            </div>
-                            <div class="desc">
-                                <div class="text-button">Oeindrila Ray Kapoor</div>
-                                <div class="caption2 text-secondary mt-4">Co-founder, Nee & Oink</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 col-sm-6 comment-item">
-                    <div class="item p-32 bg-white bora-12">
-                        <div class="body3 text-secondary">ViTWO is a reputable and experienced business consultancy
-                            with
-                            commitment
-                            and expertise in fulfilling their responsibilities.</div>
-                        <div class="infor mt-40 flex-item-center gap-16">
-                            <div class="avatar"><img class="w-60 h-60 bora-50"
-                                    src="./assets/images/clients/Tarun-Kapoor.jpg" alt="" />
-                            </div>
-                            <div class="desc">
-                                <div class="text-button">Tarun Kapoor</div>
-                                <div class="caption2 text-secondary mt-4">Director, Africa Medilink Ltd.</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 col-sm-6 comment-item">
-                    <div class="item p-32 bg-white bora-12">
-                        <div class="body3 text-secondary">ViTWO helped me get my records in order and prepare profit
-                            and loss as
-                            well as balance sheet.</div>
-                        <div class="infor mt-40 flex-item-center gap-16">
-                            <div class="avatar mt-24"><img class="w-60 h-60 bora-50"
-                                    src="./assets/images/clients/Aparna-Pendse.jpg" alt="" />
-                            </div>
-                            <div class="desc mt-24">
-                                <div class="text-button">Aparna Pendse</div>
-                                <div class="caption2 text-secondary mt-4">Founder, Blue Hibiscus</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 col-sm-6 comment-item">
-                    <div class="item p-32 bg-white bora-12">
-                        <div class="body3 text-secondary"> I am very satisfied with their knowledgeable and
-                            professional work over
-                            the past year to improve the profitability of my business.
-                        </div>
-                        <div class="infor mt-40 flex-item-center gap-16">
-                            <div class="avatar"><img class="w-60 h-60 bora-50"
-                                    src="./assets/images/clients/Kanishka-Mazumdar.jpg" alt="" />
-                            </div>
-                            <div class="desc">
-                                <div class="text-button">Kanishka Mazumdar</div>
-                                <div class="caption2 text-secondary mt-4">Founder, Buddha Bites</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 col-sm-6 comment-item">
-                    <div class="item p-32 bg-white bora-12">
-                        <div class="body3 text-secondary">An articulated MIS architecture was setup, and every
-                            month, prospected
-                            insights for business aspects and optimised scenarios.
-                        </div>
-                        <div class="infor mt-40 flex-item-center gap-16">
-                            <div class="avatar"><img class="w-60 h-60 bora-50"
-                                    src="./assets/images/clients/Laxmi-Narayan-Bose.jpg" alt="" />
-                            </div>
-                            <div class="desc">
-                                <div class="text-button">Laxmi Narayan Bose</div>
-                                <div class="caption2 text-secondary mt-4">Sr VP Operations,Track Four Infotech(I)
-                                    Pvt. Ltd</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 col-sm-6 comment-item">
-                    <div class="item p-32 bg-white bora-12">
-                        <div class="body3 text-secondary"> Engagement started with an overview of the BTA process
-                            and gradually
-                            translated into a holistic role-encompassing optimisation.
-                        </div>
-                        <div class="infor mt-40 flex-item-center gap-16">
-                            <div class="avatar"><img class="w-60 h-60 bora-50"
-                                    src="./assets/images/clients/Sreela-Ray.jpg" alt="" />
-                            </div>
-                            <div class="desc">
-                                <div class="text-button">Mrs Sreela Dey</div>
-                                <div class="caption2 text-secondary mt-4">Direcctor, Medicare spryness Pvt. Ltd
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
+            <?php include "include/testimonial.php" ?>
         </div>
     </div>
     <div class="style-three">
@@ -597,6 +447,7 @@
     <script src="./assets/js/main.min.js"></script>
     <script src="./assets/js/services-form.js"></script>
     <script src="./assets/js/vcfo-form.js"></script>
+    <script src="./assets/js/custom.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
     <!-- Owl Carousel JS -->

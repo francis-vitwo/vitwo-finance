@@ -16,10 +16,11 @@
 
         <!-- ================BANNER============================ -->
 
-        <div id="account-book" class="slider-sub banners">
-            <div class="bg-img"> <img src="./assets/images/banner/1.webp" alt="banner" /></div>
+        <div id="account-book" class="slider-sub banners bg-white">
+            <div class="bg-img"> <img src="./assets/images/banner/banner-desktop-view.webp" alt="banner" /></div>
+            <div class="bg-img img2"> <img src="./assets/images/banner/banner-mobile-view.webp" alt="banner" /></div>
             <div class="container">
-                <div class="row row-gap-32 p-20">
+                <div class="row row-gap-32 pt-12">
                     <div class="col-12 col-xl-8 col-lg-6 col-md-6 col-sm-6">
                         <div class="main-content">
                             <div class="content-para pr-55">
@@ -42,7 +43,7 @@
 
                         <div class="service-form">
                             <div class="heading">
-                                <div class="heading5 dark mt-12">Fill out the few details</div>
+                                <div class="heading5 dark mt-12">Fill out the details</div>
                             </div>
 
                             <form class="form-block flex-columns-between gap-20" action="./thankyou.php" id="serviceBookDemo" method="post">
@@ -87,7 +88,7 @@
 
         <!-- ================CLIENTS============================ -->
 
-        <div class="style-two bg-white pt-24 ">
+        <div class="style-two bg-white pt-24 pb-24">
             <div class="container">
                 <div class="partner-five-col style-one mt-100 bg-white">
                     <div class="customer-logos slider">
@@ -119,9 +120,9 @@
         </div>
         <!-- ================PAGE DETAILS============================ -->
 
-        <div class=" layout-item pt-80 pb-100 bg-white">
+        <div class=" layout-item pt-80 bg-white">
             <div class="container">
-                <div class="row">
+                <div class="row gap-m-16">
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pr-40 flex-column justify-content-center">
                         <div class="heading3">Drive Success with Accounting and Bookkeeping</div>
                         <div class="body2 text-secondary mt-20">Unlock the true potential of your business by
@@ -132,19 +133,19 @@
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pl-55">
                         <div class="bg-img w-100 overflow-hidden bora-20"><img
                                 class="w-100 h-100 hover-scale display-block"
-                                src="./assets/images/services/ac-bk/DSC00170.JPG" alt="" /></div>
+                                src="./assets/images/services/ac-bk/DSC00170.JPG" alt="" loading="lazy" /></div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class=" layout-item pt-100 pb-70 bg-white">
+        <div class=" layout-item pt-100 bg-white">
             <div class="container">
-                <div class="row direction">
+                <div class="row direction reverse gap-m-16">
                     <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 flex-column justify-content-center">
                         <div class="bg-img w-100 overflow-hidden bora-20"><img
                                 class="w-100 h-100 hover-scale display-block"
-                                src="./assets/images/services/ac-bk/DSC00173.JPG" alt="" />
+                                src="./assets/images/services/ac-bk/DSC00173.JPG" alt="" loading="lazy" />
                         </div>
 
                     </div>
@@ -166,7 +167,7 @@
 
     <!-- ================PAGE DETAILS============================ -->
 
-    <div class=" layout-item pt-80 pb-80 bg-white">
+    <div class=" layout-item pt-80 bg-white">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-12 pr-40 flex-column justify-content-center">
@@ -184,10 +185,10 @@
 
     <div class=" layout-item pt-100 pb-70 bg-white">
         <div class="container">
-            <div class="row direction">
+            <div class="row direction reverse gap-m-16">
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 flex-column justify-content-center">
                     <div class="bg-img w-100 overflow-hidden bora-20"><img class="w-100 h-100 hover-scale display-block"
-                            src="./assets/images/services/ac-bk/DSC00405.JPG" alt="" />
+                            src="./assets/images/services/ac-bk/DSC00405.JPG" alt="" loading="lazy" />
                     </div>
 
                 </div>
@@ -219,7 +220,7 @@
 
     <div class=" layout-item pt-80 pb-100 bg-white">
         <div class="container">
-            <div class="row">
+            <div class="row gap-m-16">
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pr-40 flex-column justify-content-center">
                     <div class="heading3">Ensure Compliance and Efficiency</div>
                     <div class="body2 text-secondary mt-20">Staying compliant with tax obligations and
@@ -233,7 +234,7 @@
                 </div>
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pl-55">
                     <div class="bg-img w-100 overflow-hidden bora-20"><img class="w-100 h-100 hover-scale display-block"
-                            src="./assets/images/services/ac-bk/DSC06016 (1).jpg" alt="" /></div>
+                            src="./assets/images/services/ac-bk/DSC06016 (1).jpg" alt="" loading="lazy" /></div>
                 </div>
             </div>
         </div>
@@ -453,6 +454,7 @@
     <script src="./assets/js/main.min.js"></script>
     <script src="./assets/js/services-form.js"></script>
     <script src="./assets/js/vcfo-form.js"></script>
+    <script src="./assets/js/custom.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
     <!-- Owl Carousel JS -->

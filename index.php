@@ -220,8 +220,9 @@
         <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
           <div class="service-item bora-8 p-32 bg-white border-line-1px">
             <a class="service-item-main flex-column gap-16">
-              <div class="heading flex-between"><i class="icon-coin-chair text-blue fs-60"></i>
-                <div class="number heading3 text-placehover"><i class="fas fa-book"></i></div>
+              <div class="heading flex-between">
+                <div class="number heading3 text-placehover">01</div>
+                <div class="number heading3 text-placehover"><img src="./assets/images/icons/Accounting & Bookkeeping.svg" alt=""></div>
               </div>
               <div class="desc">
                 <div class="heading7 hover-text-blue headings">Bookkeeping Service</div>
@@ -237,10 +238,11 @@
         <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
           <div class="service-item bora-8 p-32 bg-white border-line-1px">
             <a class="service-item-main flex-column gap-16">
-              <div class="heading flex-between"><i class="icon-hand-tick text-blue fs-60"></i>
-                <div class="number heading3 text-placehover"><i class="fas fa-clipboard-list"></i></div>
+              <div class="heading flex-between">
+                <div class="number heading3 text-placehover">02</div>
+                <div class="number heading3 text-placehover"><img src="./assets/images/icons/Compliance Management Services.svg"></div>
               </div>
-              <div class="desc">
+              <div class=" desc">
                 <div class="heading7 hover-text-blue headings">Compliance</div>
                 <div class="body3 text-secondary mt-4">Ensuring adherence to all the statutes and governing compliances
                   because the same is being taken care of by our best tax experts.</div>
@@ -254,8 +256,9 @@
         <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
           <div class="service-item bora-8 p-32 bg-white border-line-1px">
             <a class="service-item-main flex-column gap-16">
-              <div class="heading flex-between"><i class="icon-hand-house text-blue fs-60"></i>
-                <div class="number heading3 text-placehover"><i class="fas fa-file-invoice"></i></div>
+              <div class="heading flex-between">
+                <div class="number heading3 text-placehover">03</div>
+                <div class="number heading3 text-placehover"><img src="./assets/images/icons/MIS Reporting.svg"></div>
               </div>
               <div class="desc">
                 <div class="heading7 hover-text-blue headings">MIS Reporting</div>
@@ -272,7 +275,8 @@
         <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
           <div class="service-item bora-8 p-32 bg-white border-line-1px">
             <a class="service-item-main flex-column gap-16">
-              <div class="heading flex-between"><i class="icon-gear-warning text-blue fs-60"></i>
+              <div class="heading flex-between">
+                <div class="number heading3 text-placehover">04</div>
                 <div class="number heading3 text-placehover"><i class="fas fa-gears"></i></div>
               </div>
               <div class="desc">
@@ -290,8 +294,9 @@
         <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
           <div class="service-item bora-8 p-32 bg-white border-line-1px"><a
               class="service-item-main flex-column gap-16">
-              <div class="heading flex-between"><i class="icon-text-search text-blue fs-60"></i>
-                <div class="number heading3 text-placehover"><i class="fas fa-exclamation-triangle"></i></div>
+              <div class="heading flex-between">
+                <div class="number heading3 text-placehover">05</div>
+                <div class="number heading3 text-placehover"><img src="./assets/images/icons/Processes & Risk Mitigation.svg"></div>
               </div>
               <div class="desc">
                 <div class="heading7 hover-text-blue headings">Risk Mitigation</div>
@@ -308,8 +313,9 @@
         <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
           <div class="service-item bora-8 p-32 bg-white border-line-1px"><a
               class="service-item-main flex-column gap-16">
-              <div class="heading flex-between"><i class="icon-education text-blue fs-52"></i>
-                <div class="number heading3 text-placehover"><i class="fas fa-chart-gantt"></i></div>
+              <div class="heading flex-between">
+                <div class="number heading3 text-placehover">06</div>
+                <div class="number heading3 text-placehover"><img src="./assets/images/icons/Business Itelligence.svg"></div>
               </div>
               <div class="desc">
                 <div class="heading7 hover-text-blue headings">Intelligent Analytics</div>
@@ -468,7 +474,7 @@
       <div class="count-number-block m-0">
         <div class="row">
           <div class="col-12">
-            <div class="heading3 text-center mb-32 mt-0">Numbers vouch
+            <div class="heading3 text-center mb-24 mt-0">Numbers vouch
               for us!</div>
           </div>
         </div>
@@ -504,7 +510,7 @@
 
   <!-- =================BENEFITS SECTION=========================== -->
 
-  <div class="service-block service-block-two pt-60 pb-40 bg-white">
+  <div class="service-block service-block-two pt-20 pb-40 bg-white">
     <div class="container">
       <div class="row row-gap-32">
         <div class="col-12 col-xl-4 flex-column gap-16">
@@ -586,11 +592,11 @@
 
   <!-- =================TESTIMONIALS SECTION=========================== -->
 
-  <div class="testimonials-three pt-60 pb-60 bg-white">
+  <div class="testimonials-three pt-32 pb-60 bg-white">
     <div class="container">
       <?php include "include/testimonial.php" ?>
       <div class="style-three">
-        <div class=" layout-item pt-60 pb-60 bg-white">
+        <div class=" layout-item pt-32 bg-white">
           <div class="container" id="container">
             <div class="row row-gap-32">
 
@@ -644,7 +650,7 @@
 
   <!-- ===================TECH PARTNERS SECTION========================= -->
 
-  <div class="card-block pt-60 pb-60 bg-white">
+  <div class="card-block pt-60 pb-100 bg-white">
     <div class="container">
       <div class="text mt-40 text-center">
         <div class="heading3 text-center headings">Technology And Integration</div>
@@ -652,27 +658,28 @@
           solutions, tailored specifically to your business objectives
         </div>
       </div>
-    </div>
-  </div>
-  <div class="style-two bg-white pb-60">
-    <div class="container">
-      <div class="partner-five-col style-one mt-100 bg-white">
-        <div class="customer-logos slider">
-          <div class="slide"><img src="./assets/images/tech/8.png"></div>
-          <div class="slide"><img src="./assets/images/tech/Microsoft Dynamics-Logo.webp"></div>
-          <div class="slide"><img src="./assets/images/tech/Oracle-Logo.webp"></div>
-          <div class="slide"><img src="./assets/images/tech/Sage-Logo.webp"></div>
-          <div class="slide"><img src="./assets/images/tech/Xero-Logo.webp"></div>
-          <div class="slide"><img src="./assets/images/tech/Zoho-Logo.webp"></div>
-          <div class="slide"><img src="./assets/images/tech/2.jpg"></div>
-          <div class="slide"><img src="./assets/images/tech/3.jpg"></div>
-          <div class="slide"><img src="./assets/images/tech/4.jpg"></div>
-          <div class="slide"><img src="./assets/images/tech/5.jpg"></div>
-          <div class="slide"><img src="./assets/images/tech/6.jpg"></div>
+      <div class="style-two bg-white pb-60 pt-60">
+        <div class="container">
+          <div class="partner-five-col style-one mt-100 bg-white">
+            <div class="customer-logos slider">
+              <div class="slide"><img src="./assets/images/tech/8.png"></div>
+              <div class="slide"><img src="./assets/images/tech/Microsoft Dynamics-Logo.webp"></div>
+              <div class="slide"><img src="./assets/images/tech/Oracle-Logo.webp"></div>
+              <div class="slide"><img src="./assets/images/tech/Sage-Logo.webp"></div>
+              <div class="slide"><img src="./assets/images/tech/Xero-Logo.webp"></div>
+              <div class="slide"><img src="./assets/images/tech/Zoho-Logo.webp"></div>
+              <div class="slide"><img src="./assets/images/tech/2.jpg"></div>
+              <div class="slide"><img src="./assets/images/tech/3.jpg"></div>
+              <div class="slide"><img src="./assets/images/tech/4.jpg"></div>
+              <div class="slide"><img src="./assets/images/tech/5.jpg"></div>
+              <div class="slide"><img src="./assets/images/tech/6.jpg"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
+
 
   <!-- =================LEADERS SECTION=========================== -->
 

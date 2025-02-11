@@ -135,7 +135,8 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
                             <a class="service-item-main flex-column gap-16" href="./accounting-bookkeeping.php">
-                                <div class="heading flex-between"><i class="icon-coin-chair text-blue fs-60"></i>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover">01</div>
                                     <div class="number heading3 text-placehover"><img src="./assets/images/icons/Accounting & Bookkeeping.svg" alt=""></div>
                                 </div>
                                 <div class="desc">
@@ -154,7 +155,8 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
                             <a class="service-item-main flex-column gap-16" href="./compliance-management-services.php">
-                                <div class="heading flex-between"><i class="icon-hand-tick text-blue fs-60"></i>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover">02</div>
                                     <div class="number heading3 text-placehover"><img src="./assets/images/icons/Compliance Management Services.svg" alt="">
                                     </div>
                                 </div>
@@ -174,7 +176,8 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
                             <a class="service-item-main flex-column gap-16" href="./mis-reporting.php">
-                                <div class="heading flex-between"><i class="icon-hand-house text-blue fs-60"></i>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover">03</div>
                                     <div class="number heading3 text-placehover"><img src="./assets/images/icons/MIS Reporting.svg" alt="">
                                     </div>
                                 </div>
@@ -194,7 +197,8 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
                             <a class="service-item-main flex-column gap-16" href="./business-intelligence-analytics.php">
-                                <div class="heading flex-between"><i class="icon-gear-warning text-blue fs-60"></i>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover">04</div>
                                     <div class="number heading3 text-placehover"><img src="./assets/images/icons/Business Itelligence.svg" alt=""></div>
                                 </div>
                                 <div class="desc">
@@ -213,7 +217,8 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px">
                             <a class="service-item-main flex-column gap-16" href="./processes-risk-mitigation.php">
-                                <div class="heading flex-between"><i class="icon-text-search text-blue fs-60"></i>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover">05</div>
                                     <div class="number heading3 text-placehover"><img src="./assets/images/icons/Processes & Risk Mitigation.svg" alt=""></div>
                                 </div>
                                 <div class="desc">
@@ -232,7 +237,8 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px"><a
                                 class="service-item-main flex-column gap-16" href="./fund-management.php">
-                                <div class="heading flex-between"><i class="icon-education text-blue fs-52"></i>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover">06</div>
                                     <div class="number heading3 text-placehover"><img src="./assets/images/icons/Fund Management.svg" alt="">
                                     </div>
                                 </div>
@@ -252,7 +258,8 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px"><a
                                 class="service-item-main flex-column gap-16" href="./associate-services.php">
-                                <div class="heading flex-between"><i class="icon-education text-blue fs-52"></i>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover">07</div>
                                     <div class="number heading3 text-placehover"><img src="./assets/images/icons/Associate Services.svg" alt="">
                                     </div>
                                 </div>

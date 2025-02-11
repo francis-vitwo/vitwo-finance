@@ -84,8 +84,11 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px block">
                             <a class="service-item-main flex-column gap-16">
-                                <div class="heading flex-between"> <i class="fas fa-hand-holding-usd text-blue-1 fs-60"></i>
-                                    <div class="number heading3 text-placehover">01</div>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/Financial Accountant.svg" alt="">
+                                    </div>
+                                    <div class="number heading3 text-placehover">01
+                                    </div>
                                 </div>
                                 <div class="desc">
                                     <div class="heading7 hover-text-blue-1">Financial Accountant:</div>
@@ -109,7 +112,7 @@
                         <div class="service-item bora-8 p-32 bg-white border-line-1px block">
                             <a class="service-item-main flex-column gap-16">
                                 <div class="heading flex-between">
-                                    <i class="fab fa-codepen text-blue-1 fs-60"></i>
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons//Full Stack Developer.svg" alt=""></div>
                                     <div class="number heading3 text-placehover">02</div>
                                 </div>
                                 <div class="desc">
@@ -131,7 +134,8 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                         <div class="service-item bora-8 p-32 bg-white border-line-1px block"><a
                                 class="service-item-main flex-column gap-10">
-                                <div class="heading flex-between"><i class="fas fa-passport text-blue-1 fs-60"></i>
+                                <div class="heading flex-between">
+                                    <div class="number heading3 text-placehover"><img src="./assets/images/icons/Compliance Executive.svg" alt=""></div>
                                     <div class="number heading3 text-placehover">03</div>
                                 </div>
                                 <div class="desc">

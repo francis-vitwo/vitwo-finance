@@ -95,7 +95,7 @@
 
         <!-- ====================MISSION/VISION SECTION======================== -->
 
-        <div class="service-block style-about-two pt-60 pb-60 bg-surface">
+        <div class="service-block style-about-two pt-60 pb-100 bg-surface">
             <div class="container">
                 <div class="timeline-container">
 
@@ -637,7 +637,7 @@
 
     <!-- ==================TEAMS SECTION========================== -->
 
-    <div class="testimonials-six pt-80 pb-80 bg-surface">
+    <div class="testimonials-six p-100 bg-surface">
         <div class="container">
             <div class="heading3 text-center mb-32">Our Teams</div>
 
