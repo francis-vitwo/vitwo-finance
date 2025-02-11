@@ -232,6 +232,7 @@ a:hover {
 
     #main-content h1 {
         text-align: left;
+        color: #fff;
     }
 
     #search input[type='text'] {
@@ -246,5 +247,6 @@ a:hover {
 @media all and (max-width: 499px) {
     #main-content h1 {
         font-size: 28px;
+        color: #fff;
     }
 }
