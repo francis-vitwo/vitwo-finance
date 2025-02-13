@@ -249,4 +249,27 @@ a:hover {
         font-size: 28px;
         color: #fff;
     }
+
+
+    #search form {
+        display: none;
+    }
+
+    #navigation a.navigation.home {
+        padding: 25px 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        bottom: 0;
+        left: 25%;
+        background: #0e86d4;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+
+    #navigation a.navigation.about,
+    #navigation a.navigation.vcfo,
+    #navigation a.navigation.contact {
+        display: none;
+    }
 }

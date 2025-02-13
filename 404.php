@@ -160,10 +160,10 @@
             </div>
 
             <div id="navigation">
-                <a class="navigation" href="./">Home</a>
-                <a class="navigation" href="./about.php">About Us</a>
-                <a class="navigation" href="./virtual-cfo-services.php">Virtual CFO Services</a>
-                <a class="navigation" href="./contact.php">Contact</a>
+                <a class="navigation home" href="./">Home</a>
+                <a class="navigation about" href="./about.php">About Us</a>
+                <a class="navigation vcfo" href="./virtual-cfo-services.php">Virtual CFO Services</a>
+                <a class="navigation contact" href="./contact.php">Contact</a>
             </div>
         </div>
     </div>

@@ -14,15 +14,16 @@
 
         <!-- ================BANNER============================ -->
 
-        <div class="slider-sub banners">
+        <div class="slider-sub banners bg-white ">
             <div class="bg-img"> <img src="./assets/images/banner/banner-desktop-view.webp" alt="banner" /></div>
-            <div class="bg-img img2"> <img src="./assets/images/banner/banner-mobile-view.webp" alt="banner" /></div>
+            <div class="bg-img img2"> <img src="./assets/images/banner/banner-mobile-view.webp" alt="banner" />
+            </div>
             <div class="container">
                 <div class="row row-gap-32 p-20">
                     <div class="col-12 col-xl-8 col-lg-6 col-md-6 col-sm-6">
                         <div class="main-content">
                             <div class="content-para pr-55">
-                                <div class="heading4 dark">Seamless coordination and support for business associates
+                                <div class="heading3 dark">Seamless coordination and support for business associates
                                 </div>
                                 <div class="body2 text-white mt-16">Take your business to new heights with our
                                     comprehensive Accounting & Bookkeeping Services.
@@ -88,7 +89,7 @@
 
         <!-- ================CLIENTS============================ -->
 
-        <div class="style-two bg-white pt-24 pb-24">
+        <div class="style-two bg-white pt-100 pb-24">
             <div class="container">
                 <div class="partner-five-col style-one mt-100 bg-white">
                     <div class="customer-logos slider">
@@ -215,7 +216,7 @@
         </div>
     </div>
 
-    <div class=" layout-item pt-80 bg-white">
+    <div class=" layout-item pt-80 pb-100 bg-white">
         <div class="container">
             <div class="row gap-m-16">
                 <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6 pr-40 flex-column justify-content-center">
